@@ -1,0 +1,64 @@
+.col-4 {
+  padding: 0;
+}
+
+.news_card {
+  //    background: $menuColor;
+  width: 90%;
+  margin: auto;
+  padding-top: 20px;
+  padding-left: 0px;
+  background: $whiteColor;
+  border-radius: 4px;
+
+  a {
+    margin: 0;
+    padding: 0;
+    img {
+      width: 100%;
+      margin: auto;
+    }
+  }
+
+  h1 {
+    color: $blueColor;
+    font-weight: bold;
+  }
+  p {
+    color: $blueColor;
+  }
+}
+
+.modal-header 
+{
+  background: $greyDarkColor;
+  color: $whiteColor;
+  border: none;
+  border-radius: none;
+  
+
+}
+.modal-body {
+  background: $blueColor;
+  color: $whiteColor;
+  border: none;
+  border-radius: none;
+
+}
+
+.modal-footer 
+{
+    background: $greyDarkColor;
+    color: $whiteColor;
+    border: none;
+    border-radius: none;
+    .btn
+    {
+        background: $blueColor;
+        color: $whiteColor;
+        border: 1px solid $greyDarkColor;
+    }
+
+
+}
+
