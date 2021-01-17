@@ -1,2 +1,2 @@
 # braheem0011.github.io
- website project
+Download website as a zip file, extract, then open the index.html file.
